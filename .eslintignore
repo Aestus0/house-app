@@ -1,2 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-./serviceWorker.js
+./src/serviceWorker.js
+./config
+./scripts
+./src/route/index.js
+./src/setupProxy.js
